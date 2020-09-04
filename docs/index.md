@@ -4,6 +4,10 @@
 
 This guide is for people installing, upgrading, and maintaining a [CiviCRM](https://civicrm.org) instance for an organization.
 
+### System Administrator Guide vs the Installation Guide
+
+We also have an [Installation guide](https://docs.civicrm.org/installation/en/latest) which covers planning for CiviCRM, installing CiviCRM and the requirements for CiviCRM.
+
 ### System Administrator Guide vs the User Guide
 
 We also have a [User Guide](https://docs.civicrm.org/user/en/latest) which covers all the functionality available through CiviCRM's web-based interface.
